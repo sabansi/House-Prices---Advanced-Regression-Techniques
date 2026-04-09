@@ -267,6 +267,8 @@ Random Forest-მა (n=100, depth=10, leaf=2) შიდა test-ზე 0.1725 �
 
 საუკეთესო მოდელი (Random Forest) დარეგისტრირდა **Model Registry**-ში სახელით `house_prices_best_model`, version 2.
 
+<img width="1185" height="68" alt="image" src="https://github.com/user-attachments/assets/2b0942b7-8887-4107-bea6-759b11bb1b4b" />
+
 ---
 
 ## გამოცდილება
